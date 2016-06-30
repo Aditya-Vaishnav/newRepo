@@ -1,0 +1,13 @@
+commentText {
+	visibility: hidden;
+	display: none;
+}
+button {
+	margin-left: 10px;
+}	
+
+div {
+	padding: 2px;
+	background-color: #CCAAAA;
+
+}
